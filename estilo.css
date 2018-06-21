@@ -96,7 +96,7 @@ nav{
 	padding-left: 50%;
 	padding-right: 50%;
 	height: 50px;
-	padding-top:15px;
+	padding-top:10px;
 	border: solid 1px #ccc;
 	margin-top: 15px;
 	
@@ -105,6 +105,8 @@ nav{
 
 .box3 p{
 	text-align: center;
+	font-size: 30px;
+	padding-bottom: 10px;
 	
 }	
 
